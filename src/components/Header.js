@@ -11,9 +11,6 @@ const Header = () => {
         Streams
       </Link>
       <div className="right menu">
-        <Link to="/" className="ui item">
-          Logout
-        </Link>
         <GoogleAuth />
       </div>
     </div>
